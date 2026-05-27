@@ -28,8 +28,7 @@ PeekN is a category-based product review and discovery platform where users can 
 https://peekn.onrender.com/
 
 ## Screenshots
-
-(Add screenshots here)
+Adding up soon
 
 ## Future Improvements
 
